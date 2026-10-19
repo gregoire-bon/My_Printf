@@ -2,6 +2,10 @@
 
 A custom implementation of the C standard library `printf` function. This project creates a static library `libprintf.a` that can be linked to your C projects.
 
+> [!WARNING]
+> **To new Epitech students:** do **not** copy this code for your own `my_printf` project.
+> Epitech's plagiarism detection will flag it and you will get a **-42** (cheating).
+
 ## Description
 
 `my_printf` mimics the behavior of the standard `printf` function, allowing formatted output to `stdout`. It handles various format specifiers for integers, characters, strings, and pointers.
